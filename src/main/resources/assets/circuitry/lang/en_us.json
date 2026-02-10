@@ -1,0 +1,13 @@
+{
+  "itemGroup.circuitry": "Example Mod Tab",
+  "block.circuitry.example_block": "Example Block",
+  "item.circuitry.example_item": "Example Item",
+
+  "circuitry.configuration.title": "Circuitry Configs",
+  "circuitry.configuration.section.circuitry.common.toml": "Circuitry Configs",
+  "circuitry.configuration.section.circuitry.common.toml.title": "Circuitry Configs",
+  "circuitry.configuration.items": "Item List",
+  "circuitry.configuration.logDirtBlock": "Log Dirt Block",
+  "circuitry.configuration.magicNumberIntroduction": "Magic Number Text",
+  "circuitry.configuration.magicNumber": "Magic Number"
+}
