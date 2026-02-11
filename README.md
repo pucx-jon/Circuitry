@@ -1,25 +1,10 @@
+<img src="assets/banner/circuitry.png" height="300">
 
-Installation information
-=======
+<h1 align="center">
+	<a href="#"><img src="https://img.shields.io/badge/curseforge-black?style=flat-square&logo=curseforge&logoColor=black&labelColor=%23F16436" alt="curseforge"></a>
+	<a href="#"><img src="https://img.shields.io/badge/modrinth-black?style=flat-square&logo=modrinth&logoColor=black&labelColor=%2300AF5C" alt="modrinth"></a>
+</h1>
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
-
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+<p>Welcome to Circuitry, a Minecraft mod where electrical imagination has no limits. Circuitry introduces a system of digital and analog electronics inspired by real-world schematics, allowing you to design, connect, and experiment with functional circuits directly in-game.</p>
+<p>It includes basic logic gates such as AND, OR, and NOT, as well as compound gates like XOR and more advanced logic elements. You will also find essential electronic components such as inductors, capacitors, voltage sources, ground, batteries, and more.</p>
+<p>From simple logic to complex systems, Circuitry allows you to progressively build circuits with the long-term vision of enabling realistic electrical schematics and functional PCB design, all while maintaining a structured and coherent logic foundation.</p>
