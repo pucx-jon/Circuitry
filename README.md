@@ -1,4 +1,4 @@
-<img src="assets/banner/circuitry.png" height="300">
+<img src="assets/banner/circuitry.png">
 
 <h1 align="center">
 	<a href="#"><img src="https://img.shields.io/badge/curseforge-black?style=flat-square&logo=curseforge&logoColor=black&labelColor=%23F16436" alt="curseforge"></a>
